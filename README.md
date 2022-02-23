@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHIVA-GARG
-- 👀 I’m interested in software development.
+- 👀 I’m interested in MERN STACK software development.
 - 🌱 I’m currently studying in NItk Surathkal,Karnataka...
 - 💞️ I’m looking to search for a internship in it sector ...
 - 📫 How to reach me 
